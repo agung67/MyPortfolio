@@ -24,5 +24,5 @@ and here's the confusion matrix of the model with unprocessed data
 ## [Project 3: Simple Covid-19 Data Visualisation.](https://github.com/agung67/MyPortfolio/tree/main/Data%20Covid)
   This project is a simple data visualisation of Covid-19 data obtained from 22nd January 2020 to 26th April 2020. This project uses seaborn and pyproj to create a plotting of confirmed case, recovered case, and confirmed death in each countries and also plot which countries that has a confirmed Covid case.
   
-![](/pict/bokeh_plot%20(1).png)
+![](pict/bokeh_plot%20(1).png)
 
