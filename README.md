@@ -28,6 +28,3 @@ and here's the confusion matrix of the model with unprocessed data
 
 ![](/pict/bokeh_plot%20(2).png)
 
-![](/pict/bokeh_plot%20(3).png)
-
-![](/pict/bokeh_plot%20(4).png)
