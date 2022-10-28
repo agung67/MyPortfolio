@@ -3,7 +3,7 @@ This repository contains my personal portofolio for the past few months.
 All of these are written in python and used existing dataset.
 
 
-## [Project 1: Global Covid Case Dashboard Using SQL and PowerBI]([https://github.com/agung67/MyPortfolio/tree/main/Covid%20Case%20SQL])
+## [Project 1: Global Covid Case Dashboard Using SQL and PowerBI](https://github.com/agung67/MyPortfolio/tree/main/Covid%20Case%20SQL)
   This project was created to plot the global Covid-19 data using Microsoft SQL to extract the specific data that will be visualized with PowerBI. This data was obtained from [ourworldindata.org's Covid-19 Data]([https://ourworldindata.org/covid-deaths]). I downloaded Global Vaccinated and Global Covid Death and combined them to see the death rate, vaccinated rate, and positive case rate.
   
 ![](pict/covid case_Page_1.jpg)
